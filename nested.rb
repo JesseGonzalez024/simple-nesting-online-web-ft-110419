@@ -90,7 +90,7 @@ def changing_alan
           :languages => ["COBOL", "FORTRAN"]
         },
         :alan_kay => {
-          :known_for => 
+          :known_for => "Object Orientation"
           :languages => ["Smalltalk", "LISP"]
         },
         :dennis_ritchie => {"Object Orientation"
