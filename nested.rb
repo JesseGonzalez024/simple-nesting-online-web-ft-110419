@@ -90,10 +90,10 @@ def changing_alan
           :languages => ["COBOL", "FORTRAN"]
         },
         :alan_kay => {
-          :known_for => ,
+          :known_for => 
           :languages => ["Smalltalk", "LISP"]
         },
-        :dennis_ritchie => {
+        :dennis_ritchie => {"Object Orientation"
           :known_for => "Unix",
           :languages => ["C"]
         }
@@ -102,7 +102,7 @@ def changing_alan
      #alans_new_info = "GUI"
      
      programmer_hash[:alan_kay][:known_for] = "GUI"
-     "
+     programmer_hash
      
 end
 
